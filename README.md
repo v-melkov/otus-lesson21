@@ -23,3 +23,5 @@
 Затем настраиваем необходимые графики на dashboard.
 
 ![Screenshot](images/2020-08-12_19-55-37.png)
+
+Ссылка на youtube по настройке: <https://youtu.be/ScKlF0ICVYA>
